@@ -32,16 +32,12 @@ Develop a predictive model that classifies patients as having heart disease (1) 
    ```
 3. Run the Jupyter Notebook to explore data and train models.
 
-### 📌 Key Results
+###  Key Results
 - **Feature Importance Analysis** to identify the most relevant predictors.
 - **Performance Comparison** across multiple machine learning models.
 - **Insights & Visualizations** to understand heart disease risk factors.
 
-### 📢 Future Enhancements
+###  Future Enhancements
 - **Hyperparameter tuning** for model optimization.
 - **Deployment as a web API** for real-time predictions.
 - **Integration with hospital systems** for practical use in healthcare.
-
----
-
-This description keeps it professional, structured, and natural. Let me know if you want any modifications! 😊
